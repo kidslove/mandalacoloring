@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeDownloadOpenUrl</key>
+	<string>coloring://</string>
+	<key>freeDownloadStoreUrl</key>
+	<string>itms://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fcoloringbookforadults</string>
+</dict>
+</plist>
