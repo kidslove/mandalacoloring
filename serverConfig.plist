@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>freeDownloadOpenUrl</key>
-	<string>animaladultcoloring://</string>
-	<key>freeDownloadStoreUrl</key>
-	<string>https://itunes.apple.com/us/app/animal-coloring-book-for-adults/id1095737770?mt=8</string>
-</dict>
+<array>
+	<real>3600</real>
+</array>
 </plist>
