@@ -75,6 +75,8 @@
 			<string>mandalaR7_1</string>
 			<string>mandalaR7_2</string>
 			<string>mandalaR10_33</string>
+			<string>Update_3_2_3</string>
+			<string>Update_3_2_4</string>
 		</array>
 	</dict>
 	<dict>
@@ -112,6 +114,8 @@
 			<string>mandalaR7_11</string>
 			<string>mandalaR7_12</string>
 			<string>Update_3_0_1</string>
+			<string>Update_3_2_5</string>
+			<string>Update_3_2_6</string>
 		</array>
 	</dict>
 	<dict>
@@ -148,6 +152,8 @@
 			<string>mandalaR7_21</string>
 			<string>mandalaR7_22</string>
 			<string>Update_3_0_2</string>
+			<string>Update_3_2_7</string>
+			<string>Update_3_2_8</string>
 		</array>
 	</dict>
 	<dict>
@@ -184,6 +190,8 @@
 			<string>mandalaR8_9</string>
 			<string>mandalaR8_10</string>
 			<string>Update_3_0_3</string>
+			<string>Update_3_2_9</string>
+			<string>Update_3_2_10</string>
 		</array>
 	</dict>
 	<dict>
@@ -220,6 +228,8 @@
 			<string>mandalaR8_19</string>
 			<string>mandalaR8_20</string>
 			<string>Update_3_0_4</string>
+			<string>Update_3_2_11</string>
+			<string>Update_3_2_12</string>
 		</array>
 	</dict>
 	<dict>
@@ -256,6 +266,8 @@
 			<string>mandalaR1124</string>
 			<string>mandalaR1125</string>
 			<string>Update_3_0_5</string>
+			<string>Update_3_2_13</string>
+			<string>Update_3_2_14</string>
 		</array>
 	</dict>
 	<dict>
@@ -292,6 +304,8 @@
 			<string>mandalavol14_12</string>
 			<string>mandalavol14_13</string>
 			<string>Update_3_0_6</string>
+			<string>Update_3_2_15</string>
+			<string>Update_3_2_16</string>
 		</array>
 	</dict>
 	<dict>
@@ -329,6 +343,8 @@
 			<string>mandalavol14_1</string>
 			<string>Update_3_0_7</string>
 			<string>Update_3_0_8</string>
+			<string>Update_3_2_17</string>
+			<string>Update_3_2_18</string>
 		</array>
 	</dict>
 </array>
